@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Sitio generado por MkDocs
+site/
+
+# Editores y archivos temporales
+.vscode/
+.idea/
+*.tmp
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini

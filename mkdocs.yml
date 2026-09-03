@@ -1,0 +1,10 @@
+site_name: Informática I · Portfolio
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Hardware y sistemas: hardware/index.md
+  - Python: python/index.md
